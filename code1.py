@@ -28,5 +28,3 @@ plt.xlabel('Number of Rooms (X)')
 plt.ylabel('House Price (y)')
 plt.legend()
 plt.show()
-
-
